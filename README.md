@@ -14,6 +14,8 @@ As mensagens são enviadas via requisições HTTP, e threads permitem que cada a
 
 Todo o processo de criptografia e descriptografia ocorre automaticamente, sem depender de bibliotecas externas, tornando o código enxuto, didático e fácil de entender.
 
+https://github.com/user-attachments/assets/902fd720-ba69-4ee4-b9a9-4309a5cd2220
+
 <br>
 
 ### Instruções de execução
