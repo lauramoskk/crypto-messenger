@@ -19,20 +19,21 @@ https://github.com/user-attachments/assets/902fd720-ba69-4ee4-b9a9-4309a5cd2220
 <br>
 
 ### Instruções de execução
+```bash
+# 1. Clone o repositório e acesse a pasta:
+git clone https://github.com/seu-usuario/crypto-messenger.git
+cd crypto-messenger
 
-1. Clone o repositório e acesse a pasta:
-<br>git clone https://github.com/seu-usuario/crypto-messenger.git
-<br>cd crypto-messenger
+# 2. Instale as dependências necessárias:
+pip install flask requests
 
-2. Instale as dependências necessárias:
-<br>pip install flask requests
+# 3. Inicie o primeiro aplicativo (App A) em um terminal:
+python chat_a.py
 
-3. Inicie o primeiro aplicativo (App A) em um terminal:
-<br>python chat_a.py
+# 4. Inicie o segundo aplicativo (App B) em outro terminal:
+python chat_b.py
 
-4. Inicie o segundo aplicativo (App B) em outro terminal:
-<br>python chat_b.py
-
-5. Envie mensagens:
-- Digite sua mensagem em qualquer um dos aplicativos para enviar para o outro.  
-- Para encerrar a execução, digite: sair
+# 5. Envie mensagens:
+# - Digite sua mensagem em qualquer um dos aplicativos para enviar para o outro.  
+# - Para encerrar a execução, digite: sair
+```
